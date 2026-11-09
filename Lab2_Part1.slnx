@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Lab2_Part1/Lab2_Part1.csproj" />
+  <Project Path="Lab2_Part2/Lab2_Part2.csproj" />
+  <Project Path="Lab2_Part3/Lab2_Part3.csproj" />
 </Solution>
